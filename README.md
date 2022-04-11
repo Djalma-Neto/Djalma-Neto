@@ -8,4 +8,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Djalma-Neto&layout=compact)](https://github.com/Djalma-Neto/github-readme-stats)
 
-![Snake animation](https://github.com/Djalma-Neto/USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Djalma-Neto/output/github-contribution-grid-snake.svg)
