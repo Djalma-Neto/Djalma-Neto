@@ -46,6 +46,11 @@ Atualmente, sou mestrando na UNICAMP com foco em automação e sistemas embarcad
 
 ## 💼 Experiência
 
+### 🏢 Desenvolvedor Full-Stack — Texan Group
+- Desenvolvimento de sistemas e automações
+- Integração com IA
+- Visão Computacional
+
 ### 🏢 Desenvolvedor de Software — M. Lima Biogás
 - Desenvolvimento e manutenção de sistemas internos  
 - Criação de APIs e integrações entre sistemas  
@@ -82,7 +87,7 @@ Sistema desenvolvido para o 17º Batalhão da Polícia Militar da Bahia.
 
 ## 📫 Contato
 
-- Email: djalma7743@gmail.com  
+- Email: djalma.dev@gmail.com  
 - LinkedIn: www.linkedin.com/in/djalma-santana-malta-neto-761627197  
 
 ---
